@@ -1,6 +1,3 @@
-Course
-======
-
 Distribute System
 ==================
 
