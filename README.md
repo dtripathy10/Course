@@ -16,6 +16,7 @@ Distribute System
 + http://www.cs.columbia.edu/~roxana/teaching/DistributedSystemsF12/index.html
 + http://www.scs.stanford.edu/14au-cs244b/
 + http://www.cse.iitd.ac.in/~srsarangi/csl860/csl860.html
++ http://pages.cs.wisc.edu/~swift/classes/cs739-fa14/wiki/pmwiki.php
 
 ### Video Lecture
 
@@ -31,3 +32,4 @@ Distribute System
 + http://book.mixu.net/distsys/single-page.html
 + http://www.cs.uic.edu/~ajayk/DCS-Book
 + http://dancres.github.io/Pages/
+
