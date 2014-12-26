@@ -22,8 +22,11 @@ Distribute System
 + http://www.aduni.org/courses/systems/
 + https://www.youtube.com/watch?v=VKkGqNRlUJM
 + https://www.youtube.com/watch?v=bnrD2n55dfk
-+ https://www.youtube.com/watch?v=-4Yp3j_jk8Q
 
+
+### Video Presentation
++ [Leslie Lamport](https://www.youtube.com/watch?v=-4Yp3j_jk8Q)
++ 
 ## Resouce
 
 + https://www.quora.com/What-are-some-good-resources-for-learning-about-distributed-computing-Why
