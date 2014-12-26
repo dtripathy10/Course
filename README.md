@@ -1,5 +1,7 @@
 Course
-======
+=======
+
+## Computer Science Course
 
 ## Core Course
 
