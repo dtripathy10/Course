@@ -27,3 +27,7 @@ Distribute System
 ## Resouce
 
 + https://www.quora.com/What-are-some-good-resources-for-learning-about-distributed-computing-Why
++ http://stackoverflow.com/questions/524198/how-to-design-and-verify-distributed-systems
++ http://book.mixu.net/distsys/single-page.html
++ http://www.cs.uic.edu/~ajayk/DCS-Book
++ http://dancres.github.io/Pages/
