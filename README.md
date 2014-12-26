@@ -23,3 +23,7 @@ Distribute System
 + http://www.ict.kth.se/courses/ID2203/video_lectures.html
 + http://www.aduni.org/courses/systems/
 + https://www.youtube.com/watch?v=VKkGqNRlUJM
+
+## Resouce
+
++ https://www.quora.com/What-are-some-good-resources-for-learning-about-distributed-computing-Why
