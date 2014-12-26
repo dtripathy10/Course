@@ -21,6 +21,7 @@ Distribute System
 + http://www.ict.kth.se/courses/ID2203/video_lectures.html
 + http://www.aduni.org/courses/systems/
 + https://www.youtube.com/watch?v=VKkGqNRlUJM
++ https://www.youtube.com/watch?v=bnrD2n55dfk
 
 ## Resouce
 
