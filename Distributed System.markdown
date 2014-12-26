@@ -26,9 +26,8 @@ Distribute System
 
 ### Video Presentation
 + [Leslie Lamport](https://www.youtube.com/watch?v=-4Yp3j_jk8Q)
-+ 
-## Resouce
 
+## Resouce
 + https://www.quora.com/What-are-some-good-resources-for-learning-about-distributed-computing-Why
 + http://stackoverflow.com/questions/524198/how-to-design-and-verify-distributed-systems
 + http://book.mixu.net/distsys/single-page.html
