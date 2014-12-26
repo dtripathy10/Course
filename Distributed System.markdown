@@ -22,6 +22,7 @@ Distribute System
 + http://www.aduni.org/courses/systems/
 + https://www.youtube.com/watch?v=VKkGqNRlUJM
 + https://www.youtube.com/watch?v=bnrD2n55dfk
++ https://www.youtube.com/watch?v=-4Yp3j_jk8Q
 
 ## Resouce
 
@@ -33,5 +34,8 @@ Distribute System
 
 ## Book
 
+## Notable Researcher
+
++ [Leslie Lamport](http://www.lamport.org/)
 
 ## Paper
